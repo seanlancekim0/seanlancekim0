@@ -3,6 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&theme=onedark&height=300&section=header&text=SeanKim's%20GitHub&fontSize=70" />
 </div>
 
+<br>
+<!-- GitHub Stats -->
+<!-- 상태가 좋을 때까지.. 일단 주석 -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=seanlancekim0&show_icons=true&theme=radical" alt="Anurag's GitHub stats"> -->
+
+<!-- Compact Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact" alt="Top Langs">
+<br>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -26,12 +35,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
-<br>
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=seanlancekim0&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-
-<!-- Compact Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact" alt="Top Langs">
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
