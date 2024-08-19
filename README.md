@@ -9,7 +9,7 @@
 
 <!-- Compact Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&theme=radical">&nbsp&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact&theme=radical">&nbsp&nbsp&nbsp
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seankim0">
 </div>
 <br>
@@ -19,7 +19,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
 </div>
