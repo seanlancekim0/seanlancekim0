@@ -48,25 +48,6 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 
-<!-- Development Tools -->
-<div align="center">
-    <p><strong>Development Tools</strong></p>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<!-- Framework -->
-<div align="center">
-    <p><strong>Framework</strong></p>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-</div>
-
 <br>
 
 <div align="center">
@@ -77,7 +58,27 @@
 
 <br>
 
+<!-- Development Tools -->
+<div align="center">
+    <p><strong>Development Tools</strong></p>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<!-- Framework -->
+<div align="center">
+    <p><strong>Framework</strong></p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+</div>
+
+<br>
+
 <h3 align="center">📞 Contact 📞</h3>
+<div align="center">
   <a href="https://seankim0.tistory.com">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0"/>&nbsp
   </a>
