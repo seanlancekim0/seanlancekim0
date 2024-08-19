@@ -48,8 +48,6 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -68,6 +66,8 @@
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+<br>
+
 <!-- Framework -->
 <div align="center">
     <p><strong>Framework</strong></p>
@@ -84,7 +84,7 @@
   </a>
   <a href="mailto:seanlancekim0@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/seankim6479">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
