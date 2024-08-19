@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <br>
@@ -80,11 +80,11 @@
 <h3 align="center">📞 Contact 📞</h3>
 <div align="center">
   <a href="https://seankim0.tistory.com">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0"/>&nbsp
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0"/>
   </a>
   <a href="mailto:seanlancekim0@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/seankim6479">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
