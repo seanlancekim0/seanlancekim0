@@ -79,12 +79,9 @@
 
 <h3 align="center">📞 Contact 📞</h3>
 <div align="center">
-  <a href="https://seankim0.tistory.com">
+<!--   <a href="https://seankim0.tistory.com">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0"/>
-  </a>
-  <a href="https://github.com/loosie/github-readme-tistory-card">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0" alt="Tistory's Badge">
-  </a>
+  </a> -->
   <a href="mailto:seanlancekim0@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
