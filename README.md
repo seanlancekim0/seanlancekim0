@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&theme=onedark&height=300&section=header&text=SeanKim's%20GitHub&fontSize=90&desc=김시현의%20GitHub" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&theme=onedark&height=300&section=header&text=SeanKim's%20GitHub&fontSize=70" />
 </div>
 
 <!--내용 부분-->
