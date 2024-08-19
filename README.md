@@ -82,6 +82,9 @@
   <a href="https://seankim0.tistory.com">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0"/>
   </a>
+  <a href="https://github.com/loosie/github-readme-tistory-card">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0" alt="Tistory's Badge">
+  </a>
   <a href="mailto:seanlancekim0@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -89,5 +92,4 @@
   <a href="https://www.instagram.com/seankim6479">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
-</div>
 </div>
