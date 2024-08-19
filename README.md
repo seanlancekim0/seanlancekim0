@@ -27,8 +27,11 @@
 </div>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/seanlancekim0/seanlancekim0.git))
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanlancekim0&show_icons=true&theme=radical)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=seanlancekim0&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+
+<!-- Compact Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact" alt="Top Langs">
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
