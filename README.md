@@ -26,14 +26,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
 <br>
@@ -41,7 +41,7 @@
 <div align="center">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">&nbsp
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> &nbsp
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 </div>
 
 <br>
@@ -59,7 +59,7 @@
 
 <!-- Development Tools -->
 <div align="center">
-    <p><strong>Development Tools</strong></p>
+    <p><strong>Development</strong></p>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">&nbsp
@@ -79,9 +79,9 @@
 
 <h3 align="center">📞 Contact 📞</h3>
 <div align="center">
-<!--   <a href="https://seankim0.tistory.com">
+  <a href="https://seankim0.tistory.com">
     <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=seankim0"/>&nbsp
-  </a> -->
+  </a>
   <a href="mailto:seanlancekim0@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
