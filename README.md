@@ -9,9 +9,8 @@
 
 <!-- Compact Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact" >
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seankim0)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlancekim0&layout=compact&theme=radical">&nbsp
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seankim0">
 </div>
 <br>
 
